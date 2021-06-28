@@ -10,7 +10,5 @@ Full Stack Developer in Progress!
 “Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.” — Thomas A. Edison
 
 # Skills:
--HTML5
--CSS6
--Git
--GitHub
+
+HTML5 / CSS6 / Git / GitHub

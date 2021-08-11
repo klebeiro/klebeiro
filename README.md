@@ -11,4 +11,4 @@ Full Stack Developer in Progress!
 
 # Skills:
 
-HTML5 / CSS6 / Git / GitHub
+HTML5 / CSS6 / Git

@@ -1,14 +1,15 @@
-# Hi, I'm Klênisson Mateus!
+# Olá, eu me chamo Klênisson Mateus!
 
-Studying Front-End Development;
+Estou iniciando meus estudos em programação e almejo entrar no ramo de Desenvolvimento Web.
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white//www.linkedin.com/in/klenissonmateus/)](https://www.linkedin.com/in/klenissonmateus/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:klenissonmateuspessoal@gmail.com)](mailto:klenissonmateuspessoal@gmail.com)
+Atualmente estou estudando tecnologias voltadas ao Front-End pois acredito que seja a melhor porta de entrada para iniciantes.
 
-Full Stack Developer in Progress!
+É neste GitHub onde eu deixarei os projetos feitos por mim durante essa caminhada. 
 
-“Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.” — Thomas A. Edison
+# Tecnologias aprendidas:
 
-# Skills:
+HTML, CSS, Git
 
-HTML5 / CSS6 / Git
+# Tecnologias em estudo:
+
+Javascript

@@ -8,7 +8,7 @@ Atualmente estou estudando tecnologias voltadas ao Front-End pois acredito que s
 
 # Tecnologias aprendidas:
 
-HTML, CSS, Git.
+HTML, CSS, Sass, Git.
 
 # Tecnologias em estudo:
 

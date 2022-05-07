@@ -31,6 +31,7 @@
 <!-- Contact Me -->
 <p align="center">
     <samp>
+      <a href="https://www.linkedin.com/in/klenissonmateus/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></a>
       <a href="https://discord.com/users/676923738482147350" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a></a>
       <a href="mailto:klenissonmateuspessoal@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></a>
       <h2></h2> 

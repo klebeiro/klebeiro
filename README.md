@@ -11,7 +11,7 @@
             </b>
         <br>
         <br>
-          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=learning+reactjs.">
+          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=61DBFB&center=true&width=410&height=45&lines=learning+reactjs.">
         <br>
             <b>
             ~ Klênisson Ribeiro ~
